@@ -2,4 +2,8 @@
     <string name="app_name">MyBottomNav</string>
     <string name="text_label_1">person</string>
     <string name="text_label_2">camera</string>
+    <string name="option_1">الرئيسية</string>
+    <string name="option_2">الضبط</string>
+    <string name="option_3">الفروع</string>
+    <string name="label">القائمة</string>
 </resources>
