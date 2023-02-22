@@ -1,4 +1,0 @@
-<resources>
-    <string name="app_name">MyFragmentKotlin</string>
-    <string name="fragment_one">Fragment One</string>
-</resources>
